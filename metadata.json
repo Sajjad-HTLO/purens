@@ -1,0 +1,6 @@
+{
+  "name": "PURENS — The Essence of Nature",
+  "description": "A luxury botanical fragrance house and vintage apothecary brand portfolio celebrating pure essential oils, aromatherapy, and natural perfumery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
